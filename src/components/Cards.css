@@ -1,0 +1,15 @@
+card {
+  height: 350px;
+  width: 250px;
+}
+.front,
+.back {
+  height: 100px;
+  width: 100px;
+}
+.front {
+  background: linear-gradient(#08aeea, #2af598);
+}
+.back {
+  background: linear-gradient(#f8da61, #ff5acd);
+}
